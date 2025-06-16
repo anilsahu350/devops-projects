@@ -24,4 +24,9 @@ This Bash script collects and displays key server performance statistics in a cl
 2. Make it executable:
    ```bash
    chmod +x server_stats.sh
+   ```
+3. Run the script:
+   ```bash
+   ./server_stats.sh
+   ```
 
